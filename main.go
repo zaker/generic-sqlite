@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 
-	"generic-sqlite/repo"
-	"generic-sqlite/todo"
+	"github.com/zaker/generic-sqlite/repo"
+	"github.com/zaker/generic-sqlite/todo"
 
 	_ "modernc.org/sqlite"
 )

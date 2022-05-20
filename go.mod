@@ -1,4 +1,4 @@
-module generic-sqlite
+module github.com/zaker/generic-sqlite
 
 go 1.18
 
